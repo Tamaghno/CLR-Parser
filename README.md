@@ -1,3 +1,9 @@
+Respected Ma'am,
+The detailed code with outputs are attached in the mini-project file.
+ 
+ - Group 2
+
+
 # Canonical LR Parser 
 
   This project generates a CLR table from the given grammar, and attempts to parse an input string using the resultant table.
